@@ -1,0 +1,6 @@
+this folder is created in local and pushed 
+
+converted this local folder to git folder using git init
+
+PS D:\Programs\Git\local> git init
+Initialized empty Git repository in D:/Programs/Git/local/.git/
