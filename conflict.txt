@@ -1,1 +1,2 @@
 this is merg conflict example
+this is eddited in branch1
